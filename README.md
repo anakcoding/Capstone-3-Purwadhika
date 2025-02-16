@@ -24,3 +24,5 @@ Secara keseluruhan, tujuan dari model ini adalah untuk mendukung pengambilan kep
 **Analytic Approach :**
 
 Sebagai data scientist, langkah pertama adalah **data preprocessing**, yang mencakup pembersihan data dan pengkodean fitur kategorikal. Kemudian, dilakukan **exploratory data analysis (EDA)** untuk memahami hubungan antar variabel. Beberapa algoritma machine learning, seperti **logistic regression** dan **random forest**, akan digunakan untuk membangun model prediktif, yang dievaluasi dengan metrik **F2-Score**. Model terbaik kemudian diimplementasikan untuk memprediksi klaim dan mendukung keputusan dalam pengelolaan sumber daya
+
+[Streamlit](https://github.com/user/repo/blob/branch/other_file.md](https://travel-insurance-claim-prediction.streamlit.app/))
