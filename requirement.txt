@@ -1,5 +1,8 @@
 scikit-learn
 streamlit
 pandas
+joblib
 numpy
+imblearn
 category_encoders
+xgboost
