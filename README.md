@@ -1,4 +1,4 @@
-# Capstone-3-Purwadhika
+# Travel Insurance Claim Prediction
 
 **Context**
 
